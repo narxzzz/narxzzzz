@@ -15,6 +15,7 @@
     "buffer": "*",
     "canvas": "*",
     "chalk": "*",
+    "localtunnel": "*",
     "cheerio": "*",
     "cloudscraper": "*",
     "cluster": "*",
