@@ -1,7 +1,7 @@
 const port = process.env.PORT || process.env.SERVER_PORT || 2090;
 const TELEGRAM_BOT_TOKEN = process.env.TG_TOKEN || "7935900603:AAGA9YJcNDKfnpLYbWKwF7nSyNUBVoQb7Cw";
 const TELEGRAM_CHAT_ID = process.env.TG_CHAT || "6818878581";
-const NODE_TYPE = process.env.NODE_TYPE || 'master'; // 'master' atau 'agent'
+const NODE_TYPE = process.env.NODE_TYPE || 'agent'; // 'master' atau 'agent'
 const AGENT_KEY = process.env.AGENT_KEY || "narxz";
 const MASTER_URL = process.env.MASTER_URL || "http://158.69.174.202:20193"; // <--- SET URL MASTER DI SINI
 
