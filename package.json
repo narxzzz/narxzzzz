@@ -2,10 +2,10 @@
   "name": "narxz",
   "version": "1.0.0",
   "description": "narxzc2 powerfull api",
-  "main": "api.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node api.js"
+    "start": "node index.js"
   },
   "author": "narxz",
   "license": "MIT",
