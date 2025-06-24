@@ -19,6 +19,7 @@
     "chalk": "*",
     "cheerio": "*",
     "pm2": "*",
+    "dotenv": "*",
     "cloudscraper": "*",
     "cluster": "*",
     "colors": "*",
